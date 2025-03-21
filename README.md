@@ -1,33 +1,3 @@
-<style>
-body {
-  background: #282c34;
-  color: white;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 1.6;
-}
-a {
-  color: #007bff;
-  text-decoration: none;
-}
-a:hover {
-  color: #0056b3;
-}
-code {
-  background: #3d4451;
-  color: #abb2bf;
-  padding: 2px 4px;
-  border-radius: 3px;
-}
-pre {
-  background:rgb(16, 17, 19);
-  color:rgb(12, 13, 14);
-  padding: 10px;
-  border-radius: 5px;
-}
-h1, h2, h3 {
-  color: #80a8cd;
-}
-</style>
 
 # 🎮 A REAL HUNTER
 
