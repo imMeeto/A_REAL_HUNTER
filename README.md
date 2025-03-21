@@ -49,8 +49,8 @@
 
 ## 📂 ГЛАВНЫЕ ДОКУМЕНТЫ ПРОЕКТА
 
-- [GAME DESIGN DOCUMENT (GDD)](gdd.md)  
 - [ROADMAP](roadmap.md)  
+- [GAME DESIGN DOCUMENT (GDD)](gdd.md)  
 - [ТЕХНИЧЕСКОЕ ЗАДАНИЕ](technical_specification.md)  
 - [МАРКЕТИНГОВЫЙ ПЛАН](marketing_plan.md)  
 
