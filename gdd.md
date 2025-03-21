@@ -424,7 +424,8 @@ Meeto (developer):
 
 ---
 
-**⬆️ [ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](README.md)**
-**⬆️ [ПЕРЕЙТИ К ROADMAP](roadmap.md)**
+⬆️ [ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](README.md)  
+
+⬆️ [ПЕРЕЙТИ К ROADMAP](roadmap.md)**
 
 ---
