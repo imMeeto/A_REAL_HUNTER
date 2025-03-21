@@ -1,5 +1,5 @@
 
-# 🎮 A REAL HUNTER GAME ROADMAP
+# 🎮 A REAL HUNTER GAME
 
 <div class="section">
 
@@ -21,7 +21,7 @@
 
 ## 📚 Содержание
 
-- [🎮 A REAL HUNTER GAME ROADMAP](#-a-real-hunter-game-roadmap)
+- [🎮 A REAL HUNTER GAME](#-a-real-hunter-game)
     - [Основные элементы:](#основные-элементы)
   - [📚 Содержание](#-содержание)
   - [🌿 Концепция игры](#-концепция-игры)
