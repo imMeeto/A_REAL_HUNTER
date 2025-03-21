@@ -1,6 +1,6 @@
 
 # 🎮 Game Design Document (GDD)  
-## A REAL HUNTER  
+## A REAL HUNTER GAME
 
 ---
 
