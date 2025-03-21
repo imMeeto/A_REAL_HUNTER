@@ -1,3 +1,68 @@
+<style>
+  body {
+    background-color: #1a1a1a; /* Темный фон */
+    color: #ffffff; /* Белый текст */
+    font-family: 'Actay', sans-serif; /* Шрифт Actay */
+    margin: 20px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff; /* Белый текст для заголовков */
+    border-bottom: 2px solid #444; /* Подчеркивание заголовков */
+    padding-bottom: 5px;
+  }
+  a {
+    color: #1e90ff; /* Цвет ссылок */
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .section {
+    background-color: #2a2a2a; /* Темный фон для секций */
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #444; /* Рамка для секций */
+  }
+  .section h2 {
+    margin-top: 0;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  table, th, td {
+    border: 1px solid #444; /* Рамка для таблиц */
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #333; /* Темный фон для заголовков таблиц */
+  }
+  .recommendations {
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #444;
+    margin-bottom: 20px;
+  }
+  .recommendations h3 {
+    margin-top: 0;
+  }
+  .references {
+    background-color: #2a2a2a;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #444;
+    margin-bottom: 20px;
+  }
+  .references h3 {
+    margin-top: 0;
+  }
+</style>
 
 # 🎮 A REAL HUNTER GAME ROADMAP
 
@@ -21,7 +86,8 @@
 
 ## 📚 Содержание
 
-- [🎮 A REAL HUNTER](#-a-real-hunter)
+- [🎮 A REAL HUNTER GAME ROADMAP](#-a-real-hunter-game-roadmap)
+    - [Основные элементы:](#основные-элементы)
   - [📚 Содержание](#-содержание)
   - [🌿 Концепция игры](#-концепция-игры)
   - [⚡ Основные фичи](#-основные-фичи)

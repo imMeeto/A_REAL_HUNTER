@@ -125,8 +125,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [theHunter: Call of the Wild](https://www.thehunter.com/) — реалистичное поведение животных и механика охоты.
-- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — реалистичная стрельба и взаимодействие с дичью.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — реалистичное поведение животных и механика охоты.  
+  - [Полезная статья о создании реалистичной охоты](https://www.gamasutra.com/view/feature/134735/designing_realistic_hunting_in_.php) — анализ механик охоты в играх.
+- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — реалистичная стрельба и взаимодействие с дичью.  
+  - [Статья о создании охоты в Red Dead Redemption 2](https://www.polygon.com/2018/10/26/18029132/red-dead-redemption-2-hunting-guide-tips) — советы по реализации охоты.
 
 ---
 
@@ -149,8 +151,10 @@
 - **1.5 месяца** (45 дней, через день по 5 часов = 112.5 часов).
 
 #### Референсы:
-- [Stardew Valley](https://www.stardewvalley.net/) — система торговли и улучшений.
-- [Monster Hunter: World](https://www.monsterhunter.com/world/) — улучшение экипировки и экономика.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — система торговли и лицензий.  
+  - [Статья о балансе экономики в охотничьих играх](https://www.gamedeveloper.com/design/balancing-economy-in-hunting-games) — как создать сбалансированную экономику.
+- [Monster Hunter: World](https://www.monsterhunter.com/world/) — улучшение экипировки и экономика.  
+  - [Гайд по экономике Monster Hunter: World](https://www.ign.com/wikis/monster-hunter-world/Economy_and_Resources) — как работает экономика в игре.
 
 ---
 
@@ -172,8 +176,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [Call of Duty: Warzone](https://www.callofduty.com/warzone) — система рейтинга и статистики.
-- [theHunter: Call of the Wild](https://www.thehunter.com/) — рейтинг охотников.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — рейтинг охотников и статистика.  
+  - [Статья о создании рейтинговой системы](https://www.gamedeveloper.com/design/designing-leaderboards-for-engagement) — как создать увлекательную рейтинговую систему.
+- [Call of the Wild: Angler](https://www.callofthewildangler.com/) — соревнования и статистика.  
+  - [Гайд по системе соревнований](https://www.ign.com/wikis/call-of-the-wild-angler/Competitions) — как реализовать соревнования.
 
 ---
 
@@ -196,8 +202,10 @@
 - **2 месяца** (60 дней, через день по 5 часов = 150 часов).
 
 #### Референсы:
-- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — динамический мир и погода.
-- [The Witcher 3: Wild Hunt](https://www.thewitcher.com/) — события и реакции NPC.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — сезонные изменения и динамическая погода.  
+  - [Статья о создании динамического мира](https://www.gamasutra.com/view/feature/134735/designing_dynamic_worlds_in_games.php) — как создать живой мир.
+- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — динамические события и реакции NPC.  
+  - [Статья о динамических событиях в RDR2](https://www.polygon.com/2018/10/26/18029132/red-dead-redemption-2-dynamic-events) — как реализовать события.
 
 </div>
 
@@ -225,8 +233,10 @@
 - **1.5 месяца** (45 дней, через день по 5 часов = 112.5 часов).
 
 #### Референсы:
-- [theHunter: Call of the Wild](https://www.thehunter.com/) — разнообразные локации.
-- [Far Cry 5](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5) — открытый мир и погода.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — разнообразные локации и биомы.  
+  - [Статья о создании локаций в охотничьих играх](https://www.gamedeveloper.com/design/designing-hunting-locations) — как создать реалистичные локации.
+- [Far Cry 5](https://www.ubisoft.com/en-us/game/far-cry/far-cry-5) — открытый мир и погода.  
+  - [Гайд по созданию открытого мира](https://www.ign.com/wikis/far-cry-5/Open_World_Design) — как создать открытый мир.
 
 </div>
 
@@ -254,8 +264,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [Skyrim](https://elderscrolls.bethesda.net/skyrim) — кастомизация персонажа.
-- [Monster Hunter: World](https://www.monsterhunter.com/world/) — прогрессия и навыки.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — настраиваемый персонаж и прогрессия.  
+  - [Статья о создании персонажа в охотничьих играх](https://www.gamedeveloper.com/design/designing-hunter-characters) — как создать настраиваемого персонажа.
+- [Monster Hunter: World](https://www.monsterhunter.com/world/) — прогрессия и навыки.  
+  - [Гайд по прогрессии в Monster Hunter: World](https://www.ign.com/wikis/monster-hunter-world/Progression) — как реализовать прогрессию.
 
 </div>
 
@@ -283,8 +295,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [Stardew Valley](https://www.stardewvalley.net/) — система торговли.
-- [Monster Hunter: World](https://www.monsterhunter.com/world/) — экономика и ресурсы.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — система торговли и лицензий.  
+  - [Статья о балансе экономики в охотничьих играх](https://www.gamedeveloper.com/design/balancing-economy-in-hunting-games) — как создать сбалансированную экономику.
+- [Monster Hunter: World](https://www.monsterhunter.com/world/) — улучшение экипировки и экономика.  
+  - [Гайд по экономике Monster Hunter: World](https://www.ign.com/wikis/monster-hunter-world/Economy_and_Resources) — как работает экономика в игре.
 
 </div>
 
@@ -312,8 +326,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [Call of Duty: Warzone](https://www.callofduty.com/warzone) — система рейтинга.
-- [theHunter: Call of the Wild](https://www.thehunter.com/) — статистика охотников.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — рейтинг охотников и статистика.  
+  - [Статья о создании рейтинговой системы](https://www.gamedeveloper.com/design/designing-leaderboards-for-engagement) — как создать увлекательную рейтинговую систему.
+- [Call of the Wild: Angler](https://www.callofthewildangler.com/) — соревнования и статистика.  
+  - [Гайд по системе соревнований](https://www.ign.com/wikis/call-of-the-wild-angler/Competitions) — как реализовать соревнования.
 
 </div>
 
@@ -341,8 +357,10 @@
 - **1.5 месяца** (45 дней, через день по 5 часов = 112.5 часов).
 
 #### Референсы:
-- [Cyberpunk 2077](https://www.cyberpunk.net/) — графика и освещение.
-- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — оптимизация.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — реалистичная графика и оптимизация.  
+  - [Статья о графике в охотничьих играх](https://www.gamedeveloper.com/design/designing-graphics-for-hunting-games) — как создать реалистичную графику.
+- [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2/) — оптимизация и графика.  
+  - [Статья об оптимизации в RDR2](https://www.polygon.com/2018/10/26/18029132/red-dead-redemption-2-optimization) — как оптимизировать игру.
 
 </div>
 
@@ -370,8 +388,10 @@
 - **1 месяц** (30 дней, через день по 5 часов = 75 часов).
 
 #### Референсы:
-- [Hades](https://www.supergiantgames.com/games/hades/) — успешный маркетинг и релиз.
-- [Among Us](https://www.innersloth.com/games/among-us/) — продвижение через соцсети.
+- [theHunter: Call of the Wild](https://www.thehunter.com/) — успешный маркетинг и релиз.  
+  - [Статья о маркетинге охотничьих игр](https://www.gamedeveloper.com/marketing/marketing-hunting-games) — как продвигать игру.
+- [Call of the Wild: Angler](https://www.callofthewildangler.com/) — продвижение через соцсети.  
+  - [Гайд по маркетингу в соцсетях](https://www.ign.com/wikis/call-of-the-wild-angler/Marketing) — как использовать соцсети для продвижения.
 
 </div>
 
@@ -407,4 +427,6 @@
 Meeto (developer):  
 - Telegram: [https://t.me/imMeeto](https://t.me/imMeeto)  
 - VKontakte: [https://vk.com/midi_out](https://vk.com/midi_out)  
-- GitHub: [https://github.com/imMeeto
+- GitHub: [https://github.com/imMeeto](https://github.com/imMeeto)  
+
+</div>
