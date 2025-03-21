@@ -48,8 +48,8 @@
 ## 📂 Главные документы проекта
 
 - [Game Design Document (GDD)](gdd.md)  
-- [Техническое задание](technical_specification.md)  
 - [Roadmap](roadmap.md)  
+- [Техническое задание](technical_specification.md)  
 - [Маркетинговый план](marketing_plan.md)  
 
 </div>
