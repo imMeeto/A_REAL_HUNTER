@@ -423,8 +423,8 @@ Meeto (developer):
 </div>
 
 ---
-⬆️ [В НАЧАЛО](README.md)
-⬆️ [ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](README.md)
-⬆️ [ПЕРЕЙТИ К ROADMAP](roadmap.md)
+- ⬆️ [В НАЧАЛО](gdd.md)
+- ⬆️ [ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](README.md)
+- ⬆️ [ПЕРЕЙТИ К ROADMAP](roadmap.md)
 
 ---
