@@ -367,9 +367,9 @@
 ## 📞 Контакты
 
 Meeto (developer):  
-- Telegram: [https://t.me/imMeeto](https://t.me/imMeeto)  
-- VKontakte: [https://vk.com/midi_out](https://vk.com/midi_out)  
-- GitHub: [https://github.com/imMeeto](https://github.com/imMeeto)  
+- [Telegram](https://t.me/imMeeto)  
+- [VKontakte](https://vk.com/immeeto)  
+- [GitHub](https://github.com/imMeeto)  
 
 </div>
 
