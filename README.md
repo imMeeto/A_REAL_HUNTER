@@ -4,9 +4,12 @@
 ---
 
 <div class="section">
+<<<<<<< HEAD
 </div>
 
 ![Born to Hunt Game Screenshot](https://github.com/imMeeto/Born_to_Hunt/blob/main/BornToHuntLogo.png)
+=======
+>>>>>>> a2542e1d3eece362d00c413fa939afb1bcb37b65
 
 **BORN TO HUNT** — это 3D симулятор охоты с элементами экономики, рейтинговой системы и динамического мира. Игра сочетает в себе реалистичную охоту, экономическую стратегию и элементы RPG. Основная цель игрока — стать лучшим охотником, прокачивая навыки, экипировку и рейтинг.
 
